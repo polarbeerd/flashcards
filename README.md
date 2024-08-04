@@ -9,4 +9,5 @@ Used basic HTML/CSS/React to create this app.
 
 ![chrome_zUGa3gXU7l](https://github.com/polarbeerd/flashcards/assets/76842287/989e6810-bf3a-46cd-80a7-f3de50a5acd3)
 
-
+###readme v2: 
+- hosted the project to: https://66af3de51a567e65e4e3859b--polarflashcards.netlify.app/
